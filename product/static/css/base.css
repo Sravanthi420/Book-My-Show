@@ -1,0 +1,81 @@
+.A{
+    display: flex;
+padding-left: 80px;
+   padding-right: 130px;
+    padding-top: 10px;
+    background-color: white;
+}
+.B{
+    padding-right: 50px;
+    padding-bottom: 10px; 
+    width: 100px;
+    height: 100px;
+}
+.C{
+    padding-left: 110px;
+    padding-top: 10px;
+}
+.D{
+display: flex;
+padding-left: 10px;
+padding-top: 10px;
+background-color: white;
+}
+.E{
+    padding-left:65px;
+}
+.F{
+    padding-left:20px; 
+}
+.G{
+    padding-left:430px; 
+}
+.a{
+    padding-left:45px; 
+}
+.H{
+    padding-right:20px ;
+}
+.I{
+    padding-left: 40px;
+    text-decoration: none;
+}
+.J{
+    padding-left: 40px;
+}
+.K{
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color:white;
+}
+.L{
+    display: flex;
+    padding-left: 20px;
+    
+    padding-top: 30px;
+    background-color:rgb(7, 7, 37);
+    
+}
+.M{
+   padding-left:20px ;
+   padding-bottom:50px ;
+padding-top:20px ;
+}
+.N{
+    padding-left: 50px ;
+    background-color:rgb(7, 7, 37);
+}
+.O{
+
+    padding-left: 10px ;
+    background-color:rgb(7, 7, 37);
+}
+.P{
+    
+    padding-left: 40px;
+}
+.Q{
+    display: flex;
+    padding-right: 50px;
+}
